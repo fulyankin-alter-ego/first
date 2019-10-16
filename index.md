@@ -13,7 +13,5 @@ __этот текст__ жирным
 
 щзошппф
 
-
-<center>
 ![](https://i.gifer.com/origin/d6/d66620ccdb4aee4182879a2c07d393ef_w200.gif)
-<\center>
+
